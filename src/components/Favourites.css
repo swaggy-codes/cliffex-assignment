@@ -1,0 +1,12 @@
+.favPage{
+    flex-direction: column;
+    margin-right: 400px;
+    margin-left: 400px;
+    border-radius: 15px;
+    margin-top: 0.3rem;
+    vertical-align: text-bottom;
+    background-color: #5cccec;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+}

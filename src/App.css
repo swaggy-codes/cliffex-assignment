@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  background-color: #ffffff;
+  overflow: auto;
+  position: relative;
+}
+.heading-1{
+  font-size: 30px;
+  margin-top: none;
+}

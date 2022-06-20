@@ -1,0 +1,40 @@
+.checkList{
+    flex-direction: column;
+    margin-right: 400px;
+    margin-left: 400px;
+    border-radius: 15px;
+    margin-top: 0.3rem;
+    vertical-align: text-bottom;
+    background-color: #5cccec;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+}
+
+.listView{
+    color: #000000;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 270px;
+    margin-right: 270px;
+}
+
+.favButton {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    align-items: center;
+    background-color: #5cccec;
+    border-radius: 100px;
+    box-sizing: border-box;
+    color: #ffffff; 
+    display: inline-flex;
+    font-size: 16px;
+    font-weight: 600;
+    justify-content: space-evenly;
+    padding-right: 20px;
+    vertical-align: middle;
+    border: none;
+    padding: 15px 32px;
+    cursor: pointer;
+}
